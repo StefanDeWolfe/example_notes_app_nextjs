@@ -1,6 +1,9 @@
 # example_notes_app_nextjs
 Tutorial Notes App from Beyond Fireship's Youtube "Next.js 13 - The Basics" Video.
 
+There are probably issues, see repo for details:
+[`fireship-io/next13-pocketbase-demo`](https://github.com/fireship-io/next13-pocketbase-demo)
+
 # Next.js startup
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
